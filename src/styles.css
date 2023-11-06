@@ -40,6 +40,10 @@ button {
   color: inherit;
 }
 
+button.underline {
+  text-decoration: underline;
+}
+
 .wrapper {
   display: flex;
   flex-direction: column;
